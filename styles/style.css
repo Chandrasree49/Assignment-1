@@ -1,0 +1,223 @@
+.bodyClass {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.firstbanner {
+  background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 82%),
+    url("../resources/Banner\ Image.png");
+  width: 1320px;
+  height: 600px;
+  border-radius: 20px;
+}
+
+.firsttext {
+  color: white;
+  font-size: 35px;
+  font-weight: 400;
+  padding-top: 180px;
+  text-align: center;
+}
+.secondtext {
+  color: white;
+  font-size: 42px;
+  font-weight: 900;
+  line-height: 22px;
+  text-align: center;
+}
+.categories {
+  text-align: center;
+}
+.off {
+  color: #f00;
+  font-size: 88px;
+  font-weight: 700;
+}
+.holiday {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+}
+.all {
+  font-size: 48px;
+  font-weight: 700;
+}
+.offimage {
+  width: 800px;
+  height: 500px;
+}
+.secondbanner {
+  background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url("../resources/Vectorrr.png");
+  width: 1320px;
+  height: 600px;
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-evenly;
+}
+.welcomeparty {
+  color: white;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 24px;
+  letter-spacing: 7px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.welcomepartyimg {
+}
+span {
+  color: #f00;
+}
+button {
+  background: #f00;
+  border: 2px solid #f00;
+  border-radius: 8px;
+  color: white;
+  padding: 16px;
+}
+.timepart {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+  text-align: center;
+  margin-top: 100px;
+  padding-top: 100px;
+}
+.offerpart {
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 100px;
+}
+.bestoffer {
+  width: 320px;
+  margin-top: 70px;
+}
+.ellipseimage {
+  width: 344px;
+  height: 344px;
+  border-radius: 463px;
+  border: 15px solid #f00;
+  padding: 30px;
+}
+.moments {
+  width: 300px;
+  margin-top: 70px;
+}
+.function {
+  margin-top: 70px;
+  font-size: 24px;
+  font-weight: 500;
+}
+.holiday {
+  color: black;
+  font-size: 72px;
+  font-weight: 900px;
+  line-height: 22px;
+}
+.holidaysale {
+  text-align: center;
+}
+.recimage {
+  width: 429px;
+  height: 433px;
+  flex-grow: 0;
+  align-content: flex-end;
+}
+.gift {
+  color: #f00;
+
+  font-size: 24px;
+  font-weight: 500;
+}
+.imgheader {
+  margin-left: 10px;
+}
+.portfolio {
+  font-size: 48px;
+  font-weight: 900;
+}
+.mailpart {
+  width: 1320px;
+  height: 616px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 70px;
+  padding-top: 100px;
+  background: rgba(255, 0, 0, 0.05);
+}
+.newsletter {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+input {
+  width: 300px;
+  height: 50px;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+}
+.subscribe {
+  width: 150px;
+  margin-left: -25px;
+  height: 50px;
+  border-radius: 0px 50px 50px 0px;
+  margin-right: 50px;
+  background: #f00;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+.building {
+  display: flex;
+  justify-content: space-between;
+}
+.icon {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+hr {
+  color: rgba(255, 255, 255, 0.15);
+}
+
+.hrline {
+  width: 100%;
+  height: 100%;
+  border: 1px rgba(255, 255, 255, 0.15) solid;
+}
+
+.imgcontainer img {
+  margin: 0 10px; /* Optional: Add space between images */
+  width: 400px;
+  height: 350px;
+}
+
+.group44 {
+  position: relative;
+  right: -698px;
+  z-index: 9;
+}
+
+.rect1 {
+  position: relative;
+  right: -578px;
+}
+.group75 {
+  position: relative;
+  bottom: 446px;
+  z-index: 82;
+}
+.rectangle2 {
+  position: relative;
+  bottom: 670px;
+  z-index: 1;
+}
